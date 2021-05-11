@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "topping1": "Mozarella",
+    "topping2": "Salami",
+    "done": false
+  },
+  {
+    "id": 2,
+    "topping1": "Karczochy",
+    "topping2": "Sos beszamelowy",
+    "done": false
+  }
+]
